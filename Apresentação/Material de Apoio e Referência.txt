@@ -1,3 +1,4 @@
 - Documentário: Coded Bias, da Netflix;
 - Documentário: O Dilema das Redes, da Netflix;
 - Livro: Os Engenheiros do Caos, Giuliano da Empoli.
+- Livro: Deep Learning Book; Disponível em: https://www.deeplearningbook.com.br/introducao-as-redes-adversarias-generativas-gans-generative-adversarial-networks/#:~:text=Redes%20Advers%C3%A1rias%20Generativas%20%28GANs%29%20s%C3%A3o%20arquiteturas%20de%20redes,Learning%20e%20que%20estudaremos%20a%20partir%20de%20agora%21
